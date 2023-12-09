@@ -1,0 +1,28 @@
+## Identitas Diri
+Nim     :   10121165
+Nama    :   Rifki Fauzan Suandi
+Kelas   :   IF - 5
+
+## Informasi Project dengan Laravel 10
+Nama        :   Sistem Informasi Laundry
+Tujuan      :   Bertujuan untuk meningkatkan efisiensi, akurasi, dan layanan dalam operasi bisnis laundry.
+Deskripsi   :   Untuk sistem informasi tentang laundry, saya merancang tiga tabel utama dalam basis data untuk 
+                mengelola pelanggan, kategori paket, dan pesanan.
+
+Halaman Yang Berfungsi :
+    1. Login                        11. Edit Data Kategori Paket
+    2. Register                     12. Pengelolaan pesanan
+    3. Home                         13. Tambah Data Pesanan
+    4. Pengelolaan pelanggan        14. Read Data Pesanan
+    5. Tambah Data pelanggan        15. Edit Data Pesanan
+    6. Read Data Pelanggan          16. About
+    7. Edit Data Pelanggan          17. Maker
+    8. Pengelolaan Kategori Paket
+    9. Tambah Data Kategori Paket
+    10. Read Data Kategori Paket
+
+## Plugin :  
+    - DataTables
+    - Boostrap
+    - Icon
+    - jQuery
